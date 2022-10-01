@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fb0f300d0e5cb34e998ef1b0f64b62e, type: 3}
+  m_Name: Level1A
+  m_EditorClassIdentifier: 
+  nameOfLevel: Level1A
+  levelNo: 1
+  itemsCountNeeded: 2
+  cashAvaiable: 60
+  finalAmount: 3c000000
+  walletWithdrawAvailable: 0
+  constraintText: 'You should buy all the items in the list with the given
+
+    amount'
+  requirementsList:
+  - sno: 1
+    itemName: Carrot
+    quantity: 1
+    type: kg
+  - sno: 2
+    itemName: Mango
+    quantity: 1
+    type: kg
+  allPossibleListsObject:
+    allPossibleLists:
+    - possibleSolns:
+      - possibleQuantity: 1
+        possibleItem: Carrot
+      - possibleQuantity: 1
+        possibleItem: Mango

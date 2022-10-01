@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fb0f300d0e5cb34e998ef1b0f64b62e, type: 3}
+  m_Name: Level2B
+  m_EditorClassIdentifier: 
+  nameOfLevel: Level2B
+  levelNo: 6
+  itemsCountNeeded: 3
+  cashAvaiable: 180
+  finalAmount: 96000000b4000000
+  walletWithdrawAvailable: 0
+  constraintText: You can buy extra 1 kg of anything, depending on the balance available.
+    You should buy all the items in the list with the given amount.
+  requirementsList:
+  - sno: 1
+    itemName: Onion
+    quantity: 1
+    type: kg
+  - sno: 2
+    itemName: Garlic
+    quantity: 1
+    type: kg
+  - sno: 3
+    itemName: Ginger
+    quantity: 1
+    type: kg
+  allPossibleListsObject:
+    allPossibleLists:
+    - possibleSolns:
+      - possibleQuantity: 1
+        possibleItem: Onion
+      - possibleQuantity: 1
+        possibleItem: Garlic
+      - possibleQuantity: 1
+        possibleItem: Ginger
+    - possibleSolns:
+      - possibleQuantity: 2
+        possibleItem: Onion
+      - possibleQuantity: 1
+        possibleItem: Garlic
+      - possibleQuantity: 1
+        possibleItem: Ginger

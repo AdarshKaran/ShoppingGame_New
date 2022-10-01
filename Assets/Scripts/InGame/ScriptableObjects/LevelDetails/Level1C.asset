@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fb0f300d0e5cb34e998ef1b0f64b62e, type: 3}
+  m_Name: Level1C
+  m_EditorClassIdentifier: 
+  nameOfLevel: Level1C
+  levelNo: 3
+  itemsCountNeeded: 2
+  cashAvaiable: 50
+  finalAmount: 32000000
+  walletWithdrawAvailable: 0
+  constraintText: 'You should buy all the items in the list with the given
+
+    amount'
+  requirementsList:
+  - sno: 1
+    itemName: Water bottle(1L)
+    quantity: 1
+    type: No.
+  - sno: 2
+    itemName: Stick File
+    quantity: 1
+    type: No.
+  allPossibleListsObject:
+    allPossibleLists:
+    - possibleSolns:
+      - possibleQuantity: 1
+        possibleItem: Water bottle(1L)
+      - possibleQuantity: 1
+        possibleItem: Stick File

@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fb0f300d0e5cb34e998ef1b0f64b62e, type: 3}
+  m_Name: Level4B
+  m_EditorClassIdentifier: 
+  nameOfLevel: Level4B
+  levelNo: 14
+  itemsCountNeeded: 5
+  cashAvaiable: 1150
+  finalAmount: 7e040000f7030000d9030000
+  walletWithdrawAvailable: 0
+  constraintText: You only have 1150 rs.  you can reduce the amount of any product
+    by half kg. You must buy all the items with the given amount.
+  requirementsList:
+  - sno: 1
+    itemName: Kambu
+    quantity: 1
+    type: kg
+  - sno: 2
+    itemName: Kashmir Apple
+    quantity: 1
+    type: kg
+  - sno: 3
+    itemName: Cucumber
+    quantity: 1
+    type: kg
+  - sno: 4
+    itemName: Noodles
+    quantity: 0.5
+    type: kg
+  - sno: 5
+    itemName: Rajma
+    quantity: 1
+    type: kg
+  allPossibleListsObject:
+    allPossibleLists:
+    - possibleSolns:
+      - possibleQuantity: 0.5
+        possibleItem: Kambu
+      - possibleQuantity: 1
+        possibleItem: Kashmir Apple
+      - possibleQuantity: 1
+        possibleItem: Cucumber
+      - possibleQuantity: 0.5
+        possibleItem: Noodles
+      - possibleQuantity: 1
+        possibleItem: Rajma
+    - possibleSolns:
+      - possibleQuantity: 1
+        possibleItem: Kambu
+      - possibleQuantity: 0.5
+        possibleItem: Kashmir Apple
+      - possibleQuantity: 1
+        possibleItem: Cucumber
+      - possibleQuantity: 0.5
+        possibleItem: Noodles
+      - possibleQuantity: 1
+        possibleItem: Rajma
+    - possibleSolns:
+      - possibleQuantity: 1
+        possibleItem: Kambu
+      - possibleQuantity: 1
+        possibleItem: Kashmir Apple
+      - possibleQuantity: 1
+        possibleItem: Cucumber
+      - possibleQuantity: 0.5
+        possibleItem: Noodles
+      - possibleQuantity: 0.5
+        possibleItem: Rajma

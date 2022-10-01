@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fb0f300d0e5cb34e998ef1b0f64b62e, type: 3}
+  m_Name: Level4A
+  m_EditorClassIdentifier: 
+  nameOfLevel: Level3D
+  levelNo: 13
+  itemsCountNeeded: 5
+  cashAvaiable: 1010
+  finalAmount: f2030000
+  walletWithdrawAvailable: 0
+  constraintText: You must buy all the items with the given amount.
+  requirementsList:
+  - sno: 1
+    itemName: Henna
+    quantity: 1
+    type: kg
+  - sno: 2
+    itemName: Tooth Paste
+    quantity: 1
+    type: No.
+  - sno: 3
+    itemName: Soap Powder
+    quantity: 1
+    type: kg
+  - sno: 4
+    itemName: Chart Paper
+    quantity: 1
+    type: No.
+  - sno: 5
+    itemName: Urud Dal
+    quantity: 1
+    type: kg
+  allPossibleListsObject:
+    allPossibleLists:
+    - possibleSolns:
+      - possibleQuantity: 1
+        possibleItem: Henna
+      - possibleQuantity: 1
+        possibleItem: Tooth Paste
+      - possibleQuantity: 1
+        possibleItem: Soap Powder
+      - possibleQuantity: 1
+        possibleItem: Chart Paper
+      - possibleQuantity: 1
+        possibleItem: Urud Dal
+    - possibleSolns:
+      - possibleQuantity: 1
+        possibleItem: Henna
+      - possibleQuantity: 1
+        possibleItem: Tooth Paste
+      - possibleQuantity: 1
+        possibleItem: Soap Powder
+      - possibleQuantity: 1
+        possibleItem: Chart Paper
+      - possibleQuantity: 1
+        possibleItem: Urud Dal
