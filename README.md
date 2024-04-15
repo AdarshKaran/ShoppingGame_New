@@ -61,106 +61,108 @@ To develop an online shopping game, where the player will be given a list of ite
     Implementation: Integrate Google Sign-In SDK to allow players to sign in with their Gmail accounts.
 
 ## Design and Implementation Progress:
+_NOTE: The following are the images of the game as viewed from the android app._
+
 <p align="center">
-  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/f13b4995-a623-4735-a12e-dcc955647c60.png" alt=" " width="600">
+  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/f13b4995-a623-4735-a12e-dcc955647c60.png" alt="Sign in Page Prototype" width="600">
   <br>
-  <em>1</em>
+  <em>Sign in Page Prototype</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/0af8a0ff-939e-42df-a914-f9e3ca3afe29.png" alt=" " width="600">
+  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/0af8a0ff-939e-42df-a914-f9e3ca3afe29.png" alt="Main Shopping Page Prototype" width="600">
   <br>
-  <em>2</em>
+  <em>Main Shopping Page Prototype</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/8b74df6e-fd20-45c3-b031-9bc335154aa0.png" alt=" " width="600">
+  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/8b74df6e-fd20-45c3-b031-9bc335154aa0.png" alt="Shopping List Prototype" width="600">
   <br>
-  <em>3</em>
+  <em>Shopping List Prototype</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/5808dc66-e739-427e-933c-006455c204cb.png" alt=" " width="600">
+  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/5808dc66-e739-427e-933c-006455c204cb.png" alt="Shopping Cart Prototype" width="600">
   <br>
-  <em>4</em>
+  <em>Shopping Cart Prototype</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/795db7f6-7d16-413b-8e20-4209f5a11a4e.png" alt=" " width="600">
+  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/795db7f6-7d16-413b-8e20-4209f5a11a4e.png" alt="Shopping Wallet Prototype" width="600">
   <br>
-  <em>5</em>
+  <em>Shopping Wallet Prototype</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/db7a9218-8475-43db-a400-237957e00c8c.png" alt=" " width="600">
+  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/db7a9218-8475-43db-a400-237957e00c8c.png" alt="Cash Register Prototype" width="600">
   <br>
-  <em>6</em>
+  <em>Cash Register Prototype</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/3e9cbf16-cf41-4a2a-b166-4534a815d4ac.png" alt=" " width="600">
+  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/3e9cbf16-cf41-4a2a-b166-4534a815d4ac.png" alt="Login Page Final" width="600">
   <br>
-  <em>7</em>
+  <em>Login Page Final</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/a769b6cc-4192-43bc-a866-36b53840d602.png" alt=" " width="600">
+  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/a769b6cc-4192-43bc-a866-36b53840d602.png" alt="Main Menu Final" width="600">
   <br>
-  <em>8</em>
+  <em>Main Menu Final</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/c02bca0d-3aa4-4123-aaac-d15dffdcb067.png" alt=" " width="600">
+  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/c02bca0d-3aa4-4123-aaac-d15dffdcb067.png" alt="Level Selector" width="600">
   <br>
-  <em>9</em>
+  <em>Level Selector</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/bf54d0f9-4476-463e-b13e-a1d51a399746.png" alt=" " width="600">
+  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/bf54d0f9-4476-463e-b13e-a1d51a399746.png" alt="Main Shopping Page- a" width="600">
   <br>
-  <em>10</em>
+  <em>Main Shopping Page- a</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/7ff46969-9c33-4e80-b981-8404ff7469e1.png" alt=" " width="600">
+  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/7ff46969-9c33-4e80-b981-8404ff7469e1.png" alt="Main Shopping Page- b" width="600">
   <br>
-  <em>11</em>
+  <em>Main Shopping Page- b</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/0beb172a-7dd1-4cc1-9dc9-1529e04dd495.png" alt=" " width="600">
+  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/0beb172a-7dd1-4cc1-9dc9-1529e04dd495.png" alt="Shopping Cart" width="600">
   <br>
-  <em>12</em>
+  <em>Shopping Cart</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/064ee6a7-c521-4b0c-9790-7935525fbd9a.png" alt=" " width="600">
+  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/064ee6a7-c521-4b0c-9790-7935525fbd9a.png" alt="Shopping List" width="600">
   <br>
-  <em>13</em>
+  <em>Shopping List</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/a5709108-aa22-4690-8a77-8ea0515cec10.png" alt=" " width="600">
+  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/a5709108-aa22-4690-8a77-8ea0515cec10.png" alt="Wallet with Withdraw Cash Feature-a" width="600">
   <br>
-  <em>14</em>
+  <em>Wallet with Withdraw Cash Feature- a</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/f41bc723-3c3e-4f86-bc71-8a76df058822.png" alt=" " width="600">
+  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/f41bc723-3c3e-4f86-bc71-8a76df058822.png" alt="Wallet with Withdraw Cash Feature- b" width="600">
   <br>
-  <em>15</em>
+  <em>Wallet with Withdraw Cash Feature- b</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/56168230-1ebf-453b-966e-7609978bb218.png" alt=" " width="600">
+  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/56168230-1ebf-453b-966e-7609978bb218.png" alt="Final Bill Page" width="600">
   <br>
-  <em>16</em>
+  <em>Final Bill Page</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/2cff1bba-ed1f-4347-8856-bd9fbb4eb99f.png" alt=" " width="600">
+  <img src="https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/2cff1bba-ed1f-4347-8856-bd9fbb4eb99f.png" alt="End Game" width="600">
   <br>
-  <em>17</em>
+  <em>End Game</em>
 </p>
 
 
