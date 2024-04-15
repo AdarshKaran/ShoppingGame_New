@@ -60,6 +60,12 @@ To develop an online shopping game, where the player will be given a list of ite
     Description: Add Google Gmail signing in for the game.
     Implementation: Integrate Google Sign-In SDK to allow players to sign in with their Gmail accounts.
 
+## Design and Implementation Progress:
+<p align="center">
+  <img src="![17](https://github.com/AdarshKaran/ShoppingGame_New/assets/112091438/2cff1bba-ed1f-4347-8856-bd9fbb4eb99f)" alt="Leo Rover" width="600">
+  <br>
+  <em>Leo Rover</em>
+</p>
 Additional:
 
 Extract the FirebaseCppApp-9_4_0.rar file to ShoppingGame_New/Assets/Firebase/Plugins/x86_64/
